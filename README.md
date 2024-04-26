@@ -1,5 +1,7 @@
 # Credit Card Default Prediction - README
 
+Completed February 2022 as an extension of a project from my Master's of Data Science, demonstrating an end to end supervized learning workflow for classification.
+
 ## Overview
 
 This project aims to develop a machine learning model to predict the likelihood of customers defaulting on their credit card payments in the next month. It utilizes the "Credit Card Clients Dataset" from Kaggle, which includes data on credit card usage and demographic variables.
